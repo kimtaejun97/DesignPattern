@@ -8,4 +8,5 @@
 ****
 ### [Adapter Pattern](정리/AdapterPattern.md)
 ### [Strategy Pattern](정리/StrategyPattern.md)
+### [TemplateMethodPattern](정리/TemplateMethodPattern.md)
 
